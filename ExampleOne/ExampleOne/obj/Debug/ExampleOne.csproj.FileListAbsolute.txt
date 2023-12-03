@@ -1,0 +1,7 @@
+C:\Work\ExampleOne\ExampleOne\obj\Debug\ExampleOne.csprojResolveAssemblyReference.cache
+C:\Work\ExampleOne\ExampleOne\obj\Debug\ExampleOne.MainForm.resources
+C:\Work\ExampleOne\ExampleOne\obj\Debug\ExampleOne.csproj.GenerateResource.Cache
+C:\Work\ExampleOne\ExampleOne\bin\Debug\ExampleOne.exe
+C:\Work\ExampleOne\ExampleOne\bin\Debug\ExampleOne.pdb
+C:\Work\ExampleOne\ExampleOne\obj\Debug\ExampleOne.exe
+C:\Work\ExampleOne\ExampleOne\obj\Debug\ExampleOne.pdb
