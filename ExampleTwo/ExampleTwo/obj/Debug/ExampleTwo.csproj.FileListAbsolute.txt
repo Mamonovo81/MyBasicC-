@@ -1,0 +1,7 @@
+C:\Work\ExampleTwo\ExampleTwo\bin\Debug\ExampleTwo.exe
+C:\Work\ExampleTwo\ExampleTwo\bin\Debug\ExampleTwo.pdb
+C:\Work\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.csprojResolveAssemblyReference.cache
+C:\Work\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.MainForm.resources
+C:\Work\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.csproj.GenerateResource.Cache
+C:\Work\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.exe
+C:\Work\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.pdb
